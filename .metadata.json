@@ -1,0 +1,10 @@
+[
+  {
+    "package": "distr6",
+    "oncran": true
+  },
+  {
+    "package": "PosteriorBootstrap",
+    "oncran": true
+  }
+]
