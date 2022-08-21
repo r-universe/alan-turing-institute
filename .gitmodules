@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "distr6"]
-	path = distr6
-	url = https://github.com/alan-turing-institute/distr6
-	shallow = true
-	registered = true
 [submodule "PosteriorBootstrap"]
 	path = PosteriorBootstrap
 	url = https://github.com/alan-turing-institute/posteriorbootstrap
