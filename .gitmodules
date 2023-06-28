@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "PosteriorBootstrap"]
 	path = PosteriorBootstrap
 	url = https://github.com/alan-turing-institute/posteriorbootstrap
-	shallow = true
-	registered = true
